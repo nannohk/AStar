@@ -1,0 +1,68 @@
+PC information
+---------------------------------------------------------------------
+Processor Architecture: AMD64
+Total number of Processors: 8
+Host Name:                 DESKTOP-Q2CQDFL
+OS Name:                   Microsoft Windows 11 Home
+OS Version:                10.0.22000 N/A Build 22000
+OS Manufacturer:           Microsoft Corporation
+OS Configuration:          Standalone Workstation
+OS Build Type:             Multiprocessor Free
+Registered Owner:          Nathan
+Registered Organization:   N/A
+Product ID:                00325-96222-17340-AAOEM
+Original Install Date:     2021-11-07, 05:31:54 PM
+System Boot Time:          2022-03-11, 12:05:12 PM
+System Manufacturer:       Dell Inc.
+System Model:              Inspiron 7573
+System Type:               x64-based PC
+Processor(s):              1 Processor(s) Installed.
+                           [01]: Intel64 Family 6 Model 142 Stepping 10 GenuineIntel ~1600 Mhz
+BIOS Version:              Dell Inc. 1.19.0, 2021-06-16
+Windows Directory:         C:\WINDOWS
+System Directory:          C:\WINDOWS\system32
+Boot Device:               \Device\HarddiskVolume2
+System Locale:             en-us;English (United States)
+Input Locale:              en-us;English (United States)
+Time Zone:                 (UTC-04:00) Atlantic Time (Canada)
+Total Physical Memory:     8,026 MB
+Available Physical Memory: 2,076 MB
+Virtual Memory: Max Size:  13,611 MB
+Virtual Memory: Available: 4,768 MB
+Virtual Memory: In Use:    8,843 MB
+Page File Location(s):     C:\pagefile.sys
+Domain:                    WORKGROUP
+Logon Server:              \\DESKTOP-Q2CQDFL
+Hotfix(s):                 5 Hotfix(s) Installed.
+                           [01]: KB5009469
+                           [02]: KB5004567
+                           [03]: KB5008295
+                           [04]: KB5011493
+                           [05]: KB5009641
+Network Card(s):           7 NIC(s) Installed.
+                           [01]: Fortinet Virtual Ethernet Adapter (NDIS 6.30)
+                                 Connection Name: Ethernet
+                                 Status:          Media disconnected
+                           [02]: Fortinet SSL VPN Virtual Ethernet Adapter
+                                 Connection Name: Ethernet 2
+                                 Status:          Hardware not present
+                           [03]: TAP-Windows Adapter V9
+                                 Connection Name: WSSVPNTap0901
+                                 Status:          Media disconnected
+                           [04]: TAP-Windows Adapter V9
+                                 Connection Name: Local Area Connection 2
+                                 Status:          Media disconnected
+                           [05]: TAP-Windows Adapter V9
+                                 Connection Name: McAfee VPN
+                                 Status:          Media disconnected
+                           [06]: Intel(R) Dual Band Wireless-AC 7265
+                                 Connection Name: Wi-Fi 2
+                                 DHCP Enabled:    Yes
+Hyper-V Requirements:      VM Monitor Mode Extensions: Yes
+                           Virtualization Enabled In Firmware: Yes
+                           Second Level Address Translation: Yes
+                           Data Execution Prevention Available: Yes
+-------------------------------------------------------------------------------
+Execution Time: 62406
+Execution Time: 46573
+Execution Time: 37048
